@@ -24,3 +24,8 @@
 3. Notes:
    
 	- 5GHz WiFi can yield smoother camera output
+### Contributers
+
+<a href = "https://github.com/krizh4/android-cam-to-pc/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=krizh4%2Fandroid-cam-to-pc">
+</a>
